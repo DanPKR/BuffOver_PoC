@@ -18,7 +18,7 @@ int main(int argc, char **argv)
 ```
 Para compilar el programa usamos `gcc` 
 
-```
+```console
 gcc -Wall main.c -o main -g
 ```
 
