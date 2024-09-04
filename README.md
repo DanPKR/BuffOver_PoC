@@ -16,3 +16,10 @@ int main(int argc, char **argv)
   return 0;
 }
 ```
+Para compilar el programa usamos `gcc` 
+
+```
+gcc -Wall main.c -o main -g
+```
+
+
